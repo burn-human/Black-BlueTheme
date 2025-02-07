@@ -1,1 +1,1 @@
-idk this is for my theme.
+This is my first better discord theme idfk what im doing.
