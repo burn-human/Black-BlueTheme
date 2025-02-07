@@ -3,11 +3,10 @@
  * @author burnhuman
  * @description Adds a black and blue theme by default(i added variables so you can change the colors)
  * @source https://github.com/burn-human/Black-BlueTheme
- * @updateUrl https://github.com/burn-human/Black-BlueTheme/blob/main/clients/Black-BlueTHEME.theme.css
- * @version 1.1.0
+ * @version 2.0.0
  */
 
-@import url("https://burn-human.github.io/Black-BlueTheme/src/BlackBlueTheme.css");
+ @import url("https://burn-human.github.io/Black-BlueTheme/src/BlackBlueTheme.css");
 
  :root {
   --Burn-Background-Main: black;
