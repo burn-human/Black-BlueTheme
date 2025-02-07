@@ -1,0 +1,48 @@
+/**
+ * @name Black/blue theme
+ * @author burnhuman
+ * @description Adds a black and blue theme by default(i added variables so you can change the colors)
+ * @source https://github.com/burn-human/Black-BlueTheme
+ * @updateUrl https://github.com/LuckFire/amoled-cord/blob/main/clients/amoled-cord.theme.css
+ * @version 1.1.0
+ */
+
+@import url("https://burn-human.github.io/Black-BlueTheme/src/BlackBlueTheme.css");
+
+ :root {
+  --Burn-Background-Main: black;
+
+  --burn-custom-blue: rgb(1, 0, 48);
+
+  --Burn-ActionBarButtons-ActiveColor: #01acd6;
+
+  --burn-GlowColor: rgba(0, 136, 247, 0.836);
+
+  --Burn-Background-Main-Alt: #111111;
+
+  --burn-SoundMoji-button: #131313;
+
+  --Gif-Emoji-Sticker-Box: #1d1d1d;
+
+  --Gif-Emoji-Sticker-Box-Main: #131313;
+
+  --burn-scrollbar-color: rgba(0, 18, 177, 0.863);
+
+  --Burn-AddFriendButtonColor: #0300a1;
+
+  --burn-InboxButtonBackgroundColor: rgba(1, 10, 136, 0);
+
+  --Burn-DividerColors: #01acd6;
+
+  --Burn-RightClickBoxColor: #1f1f1f;
+
+  --Burn-Friends-Buttons-Color: #74747428;
+
+  --Burn-nitroSelectButton: #020061;
+
+  --Burn-Rtc-Connected-color: #00c3ff;
+
+  --ButtonHoverColors: rgb(0, 17, 255);
+
+  --Watermark: "WolfStudios"; /* For yall who dont like the watermarks like Clearvision */
+}
